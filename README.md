@@ -1,6 +1,8 @@
 # wdio-appium
 Appium Tests for Android with WebDriver IO as client
+
 Clone the repository
+
 Run npm install
 Install Android Studio: https://developer.android.com/studio/install
 Install a new Virtual Device: https://developer.android.com/studio/run/managing-avds
